@@ -1,0 +1,39 @@
+Breadth-First Search Results: 
+Denver
+Topeka
+JeffersonCity
+Frankfort
+Columbus
+Harrisburg
+Hartford
+Montpelier
+Boston
+That took 8 hops to find.
+Total distance = 3828 miles.
+Depth-First Search Results: 
+Denver
+Lincoln
+DesMoines
+SaintPaul
+Madison
+Springfield
+Indianapolis
+Columbus
+Harrisburg
+Hartford
+Montpelier
+Boston
+That took 11 hops to find.
+Total distance = 4414 miles.
+A* Search Results: 
+Denver
+Topeka
+JeffersonCity
+Frankfort
+Columbus
+Harrisburg
+Hartford
+Montpelier
+Boston
+That took 8 hops to find.
+Total distance = 3828 miles.
